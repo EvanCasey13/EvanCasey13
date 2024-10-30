@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="evancasey2002@gmail.com" title="Email Address"><code>evancasey2002@gmail.com</code></a> │ <a href="https://en.wikipedia.org/wiki/Ireland" title="PGP Public Key"><code>Ireland</code></a> │ <a href="WIP" title="Matrix User ID"><code>Personal Website (WIP)</code></a>
+<a href="evancasey2002@gmail.com" title="Email Address"><code>evancasey2002@gmail.com</code></a> │ <a href="https://en.wikipedia.org/wiki/Ireland" title="PGP Public Key"><code>Ireland</code></a></code></a>
 </p>
 <p align="center">
 <img width="500" src="https://github.com/EvanCasey13/Lissy93/blob/master/giphy.gif" />
@@ -23,25 +23,6 @@
 <!-- Snek -->   
 <!-- <p align="center">
 <a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a> -->
-
-<!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-      <img align="right" width="250" src="https://avatars.githubusercontent.com/u/78083043?s=400&v=4" alt="Evan Casey" />
-      
-<blockquote>
-
-I am a software engineering student currently in my final year of my course in SETU!
-  
-I have an interest in the various areas of software development such as front-end and back-end, testing & databases which I have previous professional experience in. I enjoy keeping up to date on the new trends and technologies in these fields and how I can implement them in personal projects in a relevant manner to achieve excellent functionality and usability. 
-
-</blockquote>
-    
-----
-  
-  </p>
-</details>
 
 <!-- Tech Stack -->  
 <details>
